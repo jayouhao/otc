@@ -18,11 +18,3 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
-
-#!/bin/sh
-
-unset GIT_DIR
-git init
-git remote add origin ~/repos/xxx-bare.git
-git clean -df
-git pull origin master

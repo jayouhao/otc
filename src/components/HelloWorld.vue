@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>你好</h1>
+    <h1>你好ss</h1>
     <p>哈哈哈哈哈ss
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
