@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
-    <h1>哈哈哈</h1>
-    <p>哈哈哈
+    <h1>mmm</h1>
+    <p>
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
     <h3>my today youss</h3>
